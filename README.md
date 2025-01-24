@@ -1,10 +1,4 @@
-👋 Hi, I’m Sadhna Patidar (@04SadhnaPatidar)
-
-✨ Welcome to my GitHub profile! ✨
-
-Here’s a little bit about me:
-
----
+<h1 align="center">Hi there, I'm Sadhna Patidar! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7B42C&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things!" />
@@ -14,12 +8,12 @@ Here’s a little bit about me:
 
 ### 👩‍💻 About Me
 
-- 🎓 *Final-year Computer Science & Engineering Student*
-- 💻 *Full-Stack Developer (MERN) | Passionate about Web Technologies*
-- 🚀 *Exploring Role-Based Access Control, UI/UX, and Scalable Systems*
-- 🔍 *Looking for Internship Opportunities & Collaboration*
-- 🎯 *Goal: Becoming a Pro in Web Dev & System Design*
-- 📍 *Indore, India*
+- 🎓 *Final-year Computer Science & Engineering Student*  
+- 💻 *Full-Stack Developer (MERN) | Passionate about Web Technologies*  
+- 🚀 *Exploring Role-Based Access Control, UI/UX, and Scalable Systems*  
+- 🔍 *Looking for Internship Opportunities & Collaboration*  
+- 🎯 *Goal: Becoming a Pro in Web Dev & System Design*  
+- 📍 *Indore, India*  
 
 ---
 
@@ -41,24 +35,24 @@ Here’s a little bit about me:
 
 ### 🚀 Projects
 
-#### 🌍 [Wanderlust – Travel & Stay Platform](https://github.com/yourprojectlink)
-- *Tech Stack:* HTML, CSS, Bootstrap, JavaScript, Node.js, Express.js, MongoDB
-- *Features:* Airbnb-like responsive design, property listings, and efficient data management.
+#### 🌍 [Airbnb-like Travel & Stay Platform](https://github.com/yourprojectlink)
+- *Tech Stack:* HTML, CSS, Bootstrap, JavaScript, Node.js, Express.js, MongoDB  
+- *Features:* Responsive UI, property listing creation/editing, and efficient data handling.  
 
 #### 🔐 [Role-Based Access Control (RBAC) System](https://github.com/yourprojectlink)
-- *Tech Stack:* MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- *Features:* User authentication, role-based permissions, and CRUD operations.
+- *Tech Stack:* MERN Stack (MongoDB, Express.js, React.js, Node.js)  
+- *Features:* User authentication, role-based permissions, and CRUD operations.  
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radharathor&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=04SadhnaPatidar&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radharathor&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=04SadhnaPatidar&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -66,19 +60,18 @@ Here’s a little bit about me:
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sadhna-patidar-8063ab229" target="_blank">
+  <a href="https://www.linkedin.com/in/sadhna-patidar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:sadhna211092cse@sdbc.ac.in">
+  <a href="mailto:sadhna.patidar04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-⭐ *Fun Fact:* I love listening to music while coding! 🎵
+⭐ *Fun Fact:* I love listening to music while coding! 🎵  
 
 ---
 
-💡 "Strive to build things that make a difference!" 🚀
-
+💡 "Strive to build things that make a difference!" 🚀
