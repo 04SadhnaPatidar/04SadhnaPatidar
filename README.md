@@ -1,53 +1,82 @@
-# 👋 Hi, I’m Sadhna Patidar  
-
-**A passionate and dedicated Full Stack Developer!**  
-
----
-
-## 🌟 About Me  
-- 🔭 **Currently Working On**:  
-  Building and optimizing user-friendly web applications with the MERN stack.  
-
-- 🌱 **Currently Learning**:  
-  Advanced backend development and cloud deployment strategies.  
-
-- 👯 **Looking to Collaborate On**:  
-  Web applications, open-source projects, or anything innovative and challenging!  
-
-- ⚡ **Fun Fact**:  
-  I believe coding is like magic, and I love creating something amazing out of nothing!  
+👋 Hi, I’m Sadhna Patidar (@04SadhnaPatidar)
+✨ Welcome to my GitHub profile! ✨
+Here’s a little bit about me:
 
 ---
 
-## 🛠️ Skills  
-- **Frontend**:  
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-
-- **Backend**:  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
-
-- **Database**:  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-- **Tools**:  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-  ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B42C&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things!" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-![Sadhna's GitHub stats](https://github-readme-stats.vercel.app/api?username=04SadhnaPatidar&show_icons=true&theme=radical)  
+### 👩‍💻 About Me
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=04SadhnaPatidar&layout=compact&theme=radical)](https://github.com/04SadhnaPatidar)
+- 🎓 *Final-year Computer Science & Engineering Student*
+- 💻 *Full-Stack Developer (MERN) | Passionate about Web Technologies*
+- 🚀 *Exploring Role-Based Access Control, UI/UX, and Scalable Systems*
+- 🔍 *Looking for Internship Opportunities & Collaboration*
+- 🎯 *Goal: Becoming a Pro in Web Dev & System Design*
+- 📍 *Indore, India*
 
 ---
 
-## 📫 Let’s Connect!  
-- 📧 [Email](mailto:sadhna.patidar04@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sadhna-patidar)  
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Code-C-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code-C++-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Projects
+
+#### 🌍 [Wanderlust – Travel & Stay Platform](https://github.com/yourprojectlink)
+- *Tech Stack:* HTML, CSS, Bootstrap, JavaScript, Node.js, Express.js, MongoDB
+- *Features:* Airbnb-like responsive design, property listings, and efficient data management.
+
+#### 🔐 [Role-Based Access Control (RBAC) System](https://github.com/yourprojectlink)
+- *Tech Stack:* MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- *Features:* User authentication, role-based permissions, and CRUD operations.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=radharathor&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radharathor&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/radha-rathore-18a220241" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:sadhna211092cse@sdbc.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ *Fun Fact:* I love listening to music while coding! 🎵
+
+---
+
+💡 "Strive to build things that make a difference!" 🚀
+
