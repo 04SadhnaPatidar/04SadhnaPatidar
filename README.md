@@ -66,7 +66,7 @@ Here’s a little bit about me:
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/radha-rathore-18a220241" target="_blank">
+  <a href="https://www.linkedin.com/in/sadhna-patidar-8063ab229" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:sadhna211092cse@sdbc.ac.in">
